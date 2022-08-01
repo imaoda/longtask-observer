@@ -1,0 +1,17 @@
+{
+  "name": "longtask-observer",
+  "version": "0.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imaoda/longtask-observer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imaoda/longtask-observer/issues"
+  },
+  "homepage": "https://github.com/imaoda/longtask-observer#readme"
+}
